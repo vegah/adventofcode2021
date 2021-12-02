@@ -7,5 +7,6 @@ The main problem is that code you program one day is used the next day, so this 
 |Day|Language|Comment|Link| Programming language verdict|
 |---|--------|-------|----|-----------------------------|
 |1  |ARM Assembly| Should be runnable from [VisUAL](https://salmanarif.bitbucket.io/visual/index.html) | [Part 1](./day1/day1_1_arm.asm) [ Part 2](./day1/day1_2_arm.asm) | Great fun, nostalgia - 10/10|  
+|2  |X86 Assembly|Works with nasm in SASM| [Part 1](./day2/day2_1_x86.asm) [Part 2](./day2/day2_2_x86.asm)| More fun, more nostalgia - never liked the x86 instruction set, though : 8/10|
 
 
