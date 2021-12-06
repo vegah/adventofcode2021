@@ -201,7 +201,7 @@ cnt := 0.
 boardlines := OrderedCollection new.
 boards := BoardCollection new.
 
-f := FileStream open: 'realdata.txt' mode: FileStream read.
+f := FileStream open: 'data.txt' mode: FileStream read.
 
 f linesDo: [ :c | 
     c='' ifTrue: [
