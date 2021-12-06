@@ -9,10 +9,12 @@ The main problem is that code you program one day is used the next day, so this 
 |1  |ARM Assembly| Should be runnable from [VisUAL](https://salmanarif.bitbucket.io/visual/index.html) | [Part 1](./day1/day1_1_arm.asm) [ Part 2](./day1/day1_2_arm.asm) | [Summary](./day1/summary.md)|  
 |2  |X86 Assembly|Works with nasm in SASM| [Part 1](./day2/day2_1_x86.asm) [Part 2](./day2/day2_2_x86.asm)| [Summary](./day2/summary.md) |
 |3  | C  | gcc | [Part 1](./day3/day3_1_c.c) [Part 2](./day3/day3_2_c.c) | [Summary](./day3/summary.md) | 
+|3  | Smalltalk  | GNU Smalltalk | [Part 1](./day4/day4_1_smalltalk.st) [Part 2](./day4/day4_2_smalltalk.st) | [Summary](./day4/summary.md) | 
 
 ## Leaderboard
 |Language|Practical score|Fun score|
 |--------|---------------|---------|
+| Smalltalk | 6 | 7 |
 | Arm asm| 2 | 10 |
 | x86 asm| 2 | 8 |
 | C      | 3 | 3 | 
