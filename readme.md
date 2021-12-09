@@ -12,11 +12,13 @@ The main problem is that code you program one day is used the next day, so this 
 |4  | Smalltalk  | GNU Smalltalk | [Part 1](./day4/day4_1_smalltalk.st) [Part 2](./day4/day4_2_smalltalk.st) | [Summary](./day4/summary.md) | 
 |5  | Perl | perl 5 | [Part 1](./day5/day5_1_perl.pl) [Part 2](./day5/day5_2_perl.pl) |  [Summary](./day5/summary.md) |
 |6  | Ruby | ruby 3 | [Part 1](./day6/day6_1_ruby.rb) [Part 2](./day6/day6_2_ruby.rb) |  [Summary](./day6/summary.md) |
+|7  | Julia | julia 1.5.3 | [Part 1](./day7/day7_1_julia.jl) [Part 2](./day7/day7_2_julia.jl) |  [Summary](./day7/summary.md) |
 
 ## Leaderboard
 |Language|Practical score|Fun score|
 |--------|---------------|---------|
 | Ruby | 7 | 8 | 
+| Julia | 7 | 8 |
 | Smalltalk | 6 | 7 |
 | Arm asm| 2 | 10 |
 | Perl | 5 | 7 |
