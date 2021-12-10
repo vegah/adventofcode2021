@@ -14,6 +14,8 @@ The main problem is that code you program one day is used the next day, so this 
 |6  | Ruby | ruby 3 | [Part 1](./day6/day6_1_ruby.rb) [Part 2](./day6/day6_2_ruby.rb) |  [Summary](./day6/summary.md) |
 |7  | Julia | julia 1.5.3 | [Part 1](./day7/day7_1_julia.jl) [Part 2](./day7/day7_2_julia.jl) |  [Summary](./day7/summary.md) |
 |8  | Crystal | Crystal 1.2.2 | [Part 1](./day8/day8_1_crystal.cr) [Part 2](./day8/day8_2_crystal.cr) |  [Summary](./day8/summary.md) |
+|9  | go | go1.17.5 | [Part 1 and 2](./day9/day9_1_2_go.go)  |  [Summary](./day9/summary.md) |
+
 ## Leaderboard
 |Language|Practical score|Fun score|
 |--------|---------------|---------|
@@ -21,6 +23,7 @@ The main problem is that code you program one day is used the next day, so this 
 | Ruby | 7 | 8 | 
 | Julia | 7 | 8 |
 | Smalltalk | 6 | 7 |
+| Go | 7 | 6 |
 | Arm asm| 2 | 10 |
 | Perl | 5 | 7 |
 | x86 asm| 2 | 8 |
