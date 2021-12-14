@@ -15,7 +15,7 @@ The main problem is that code you program one day is used the next day, so this 
 |7  | Julia | julia 1.5.3 | [Part 1](./day7/day7_1_julia.jl) [Part 2](./day7/day7_2_julia.jl) |  [Summary](./day7/summary.md) |
 |8  | Crystal | Crystal 1.2.2 | [Part 1](./day8/day8_1_crystal.cr) [Part 2](./day8/day8_2_crystal.cr) |  [Summary](./day8/summary.md) |
 |9  | go | go1.17.5 | [Part 1 and 2](./day9/day9_1_2_go.go)  |  [Summary](./day9/summary.md) |
-|9  | rust | rustc 1.57.0 | [Part 1](./day10/day10_1_rust.rs) [Part 2](./day10/day10_2_rust.rs)  |  [Summary](./day10/summary.md) |
+|10  | rust | rustc 1.57.0 | [Part 1](./day10/day10_1_rust.rs) [Part 2](./day10/day10_2_rust.rs)  |  [Summary](./day10/summary.md) |
 
 ## Leaderboard
 |Language|Practical score|Fun score|
